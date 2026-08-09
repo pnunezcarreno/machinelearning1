@@ -34,7 +34,6 @@ El proyecto utiliza el ecosistema de ciencia de datos de Python. Instala las lib
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn jupyter
 ```
-*(Si incluyes posteriormente un archivo de dependencias estricto, utiliza: `pip install -r requirements.txt`)*
 
 ## Ejecución de la Fase 1 (Definición)
 1. Con el entorno virtual activo, inicializa el servidor de Jupyter:
